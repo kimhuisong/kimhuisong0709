@@ -247,12 +247,3 @@ h4 {
   color: rgb(255, 255, 255);
   font-size: 1.3rem;
 }
-footer {
-  height: 93px;
-  background-color: #00bcdd;
-}
-footer p {
-  margin-left: 119px;
-  font-size: 0.75rem;
-  line-height: 93;
-}
